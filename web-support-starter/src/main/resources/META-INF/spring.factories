@@ -1,0 +1,5 @@
+# Auto Configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yuhangma.common.web.autoconfigure.web.WebAutoConfiguration,\
+com.yuhangma.common.web.autoconfigure.JacksonAutoConfiguration,\
+com.yuhangma.common.web.autoconfigure.task.TaskExecutionAutoConfiguration
