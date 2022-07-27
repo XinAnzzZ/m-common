@@ -17,7 +17,7 @@ import java.util.Arrays;
  * @version 1.0
  * @since 2021/12/06
  */
-public class CustomEnumSerializer extends JsonSerializer<Enum> {
+public class CustomEnumSerializer extends JsonSerializer<Enum<?>> {
 
     private final String[] props;
 

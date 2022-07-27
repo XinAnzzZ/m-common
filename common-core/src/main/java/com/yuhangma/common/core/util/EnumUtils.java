@@ -26,7 +26,6 @@ public final class EnumUtils {
     /**
      * 根据传入的枚举属性和枚举值找到对应的枚举
      *
-     * @formatter:off
      *
      * Example：
      * {@code
@@ -47,7 +46,6 @@ public final class EnumUtils {
      * }
      *
      * }
-     * @formatter:on
      * @param enumClass 枚举类
      * @param prop      枚举类的属性
      * @param propVal   枚举类属性对应的值

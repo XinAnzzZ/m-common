@@ -49,7 +49,9 @@ public class CustomEnumDeserializer extends JsonDeserializer<Enum<?>> implements
     @SuppressWarnings("unchecked")
     public JsonDeserializer<?> createContextual(DeserializationContext ctx, BeanProperty property) {
         Class<?> rawClass = ctx.getContextualType().getRawClass();
-        Asserts.isTrue(rawClass.isEnum());
+        if (!rawClass.isEnum()) {
+            throw new IllegalArgumentException("目标类型必须是 java.lang.Enum 子类型，实际类型：" + rawClass);
+        }
 
         Class<Enum<?>> enumClass = (Class<Enum<?>>) rawClass;
         CustomEnumDeserializer clone = new CustomEnumDeserializer(props);

@@ -1,0 +1,17 @@
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/autoconfigure/task/TaskExecutionAutoConfiguration.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/autoconfigure/task/TaskExecutionProperties.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/log/selector/AbstractWebLogSelector.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/autoconfigure/JacksonAutoConfiguration.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/autoconfigure/web/WebAutoConfiguration.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/converter/CustomEnumConverter.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/log/selector/DefaultWebLogSelector.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/converter/LocalDateTimeConverter.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/log/HttpRequestLog.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/autoconfigure/task/TaskAutoConfigurationCondition.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/config/WebConfig.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/log/filter/WebHttpLogFilter.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/log/request/ReadRepeatableRequestWrapper.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/properties/JacksonProperties.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/log/HttpResponseLog.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/converter/factory/CustomEnumConverterFactory.java
+/Users/moore/workspace/source/moore/m-common/common-web-support-starter/src/main/java/com/yuhangma/common/web/log/selector/WebLogSelector.java
